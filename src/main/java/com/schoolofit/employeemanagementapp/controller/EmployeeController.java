@@ -12,7 +12,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-@CrossOrigin("http://localhost:3000/")
+@CrossOrigin("https://react-employee-app-ui.herokuapp.com/")
 @RestController
 @RequestMapping("/api/employees")
 @RequiredArgsConstructor
