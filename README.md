@@ -1,6 +1,6 @@
-# Reactjs, Spring boot and MySQL Web Application - Expense Tracker
+# Reactjs, Spring boot and MySQL Web Application - Employee Mana
 
-A simple expense tracking application built with Angular 9 and Spring boot that connects to the MySQL database. Application built using spring data JPA to perform database operations. Users can add, list, update, delete, sort, and filter the expenses.
+A simple Employee Management Application built with ReactJs and Spring boot that connects to the MySQL database. Application built using spring data JPA to perform database operations. Users can add, list, update, delete.
 
 ## Requirements
 
@@ -15,7 +15,9 @@ A simple expense tracking application built with Angular 9 and Spring boot that 
 5. Node - 12.x.x
 
 6. Npm - 6.x.x
-````
+
+
+
 ## Steps to Setup
 
 **1. Clone the application**
@@ -54,7 +56,7 @@ The app will start running at <http://localhost:8081>.
 
 The app defines following CRUD APIs.
 
-    GET /api/expenses
+    GET /api/employees
 
     POST /api/employees
 

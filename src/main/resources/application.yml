@@ -2,9 +2,9 @@ server:
   port: 8081
 spring:
   datasource:
-    password: root
-    url: jdbc:mysql://localhost:3306/emsdb
-    username: root
+    password: ad55ea9b
+    url: jdbc:mysql://us-cdbr-east-06.cleardb.net:3306/heroku_d695e342313c05a
+    username: b2cfa9033eee37
     hikari:
       maxLifetime: 20000
   jpa:
