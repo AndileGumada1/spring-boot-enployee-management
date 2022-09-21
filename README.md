@@ -1,4 +1,4 @@
-# Reactjs, Spring boot and MySQL Web Application - Employee Mana
+# Reactjs, Spring boot and MySQL Web Application - Employee Management
 
 A simple Employee Management Application built with ReactJs and Spring boot that connects to the MySQL database. Application built using spring data JPA to perform database operations. Users can add, list, update, delete.
 
